@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5c16056-4118-479a-802c-ffab69fc1471" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="USACO_Bronze" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QB6HOhmhf2q1cOsuUjZrdHKOXO" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ACSL_Practice" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="ping google.com" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AngryCows">
+    <configuration name="AngryCows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson14.AngryCows" />
+      <module name="USACO_Bronze" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearchPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson13.BinarySearchPractice" />
+      <module name="USACO_Bronze" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountingHaybales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson13.CountingHaybales" />
+      <module name="USACO_Bronze" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoadBalancing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson14.LoadBalancing" />
+      <module name="USACO_Bronze" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Moo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson12.Moo" />
+      <module name="USACO_Bronze" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AngryCows" />
+        <item itemvalue="Application.LoadBalancing" />
+        <item itemvalue="Application.CountingHaybales" />
+        <item itemvalue="Application.BinarySearchPractice" />
+        <item itemvalue="Application.Moo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5c16056-4118-479a-802c-ffab69fc1471" name="Default Changelist" comment="" />
+      <created>1567231553919</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567231553919</updated>
+      <workItem from="1567231557758" duration="7628000" />
+      <workItem from="1567388782728" duration="4526000" />
+      <workItem from="1568176154209" duration="7486000" />
+      <workItem from="1568523555334" duration="5818000" />
+      <workItem from="1568598589698" duration="6441000" />
+      <workItem from="1568658853266" duration="284000" />
+      <workItem from="1568659170382" duration="533000" />
+      <workItem from="1568667952408" duration="19209000" />
+      <workItem from="1568951399475" duration="5874000" />
+      <workItem from="1569203309893" duration="23036000" />
+      <workItem from="1569808581693" duration="57825000" />
+      <workItem from="1570851426670" duration="15172000" />
+      <workItem from="1570954616269" duration="29362000" />
+      <workItem from="1571277231065" duration="19580000" />
+      <workItem from="1571685697928" duration="2645000" />
+      <workItem from="1572226068905" duration="6709000" />
+      <workItem from="1572671041120" duration="27032000" />
+      <workItem from="1573359611147" duration="24266000" />
+      <workItem from="1573583826399" duration="2636000" />
+      <workItem from="1573697177001" duration="10379000" />
+      <workItem from="1573979537717" duration="11768000" />
+      <workItem from="1574374613717" duration="118000" />
+      <workItem from="1574492782986" duration="14812000" />
+      <workItem from="1575099073286" duration="7428000" />
+      <workItem from="1575859916254" duration="1811000" />
+      <workItem from="1576045316493" duration="268000" />
+      <workItem from="1576290086683" duration="1121000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson7/MooCryption.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson7/CowTipping.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson11/BovineShuffle.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson11/Hoofball.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson12/Moo.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
